@@ -22,6 +22,7 @@ Designed with <em>Arabic RTL support</em>, smooth UI, and modern features such a
   <li>✅ Show / Hide completed tasks</li>
   <li>✅ Dark Mode toggle 🌙</li>
   <li>✅ Drag & drop to reorder tasks 🔄</li>
+  <li>✅Accessability</li>
   <li>✅ Smooth animations (icons, handle rotation, sticky notes ✨)</li>
   <li>✅ Data persistence with <strong>localStorage</strong></li>
   <li>✅ Arabic-friendly RTL layout</li>
@@ -32,7 +33,7 @@ Designed with <em>Arabic RTL support</em>, smooth UI, and modern features such a
 <h2>🛠️ Tech Stack</h2>
 <ul>
   <li>🧱 <strong>HTML5</strong> (semantic structure)</li>
-  <li>🎨 <strong>CSS3</strong> (custom animations & responsive design)</li>
+  <li>🎨 <strong>SCSS, CSS3</strong> (custom animations & responsive design)</li>
   <li>⚡ <strong>JavaScript ES6+</strong> (modular, clean code)</li>
   <li>💾 <strong>LocalStorage</strong> (persistent data)</li>
 </ul>
