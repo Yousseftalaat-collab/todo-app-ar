@@ -9,7 +9,7 @@ Designed with <em>Arabic RTL support</em>, smooth UI, and modern features such a
 
 <h2>📸 Preview</h2>
 <div align="center">
-  <video src="screenshoot.mp4" width="800" alt="Todo App Preview"/>
+  <img src="Screenshot.png" width="800" alt="Todo App Preview"/>
 </div>
 
 <hr>
